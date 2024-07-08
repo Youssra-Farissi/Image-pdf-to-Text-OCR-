@@ -1,0 +1,6 @@
+train: C:\Users\pc\Desktop\yolov8_custom\train
+val: C:\Users\pc\Desktop\yolov8_custom\val
+
+nc : 1
+
+names : ["egalisation"]

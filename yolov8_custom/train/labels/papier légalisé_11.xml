@@ -1,0 +1,38 @@
+<annotation>
+	<folder>papier_légalisé</folder>
+	<filename>papier légalisé_11.jpeg</filename>
+	<path>C:\Users\pc\Desktop\yolov8_custom\simple_images\papier_légalisé\papier légalisé_11.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>789</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egalisation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>50</ymin>
+			<xmax>693</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>egalisation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>305</ymin>
+			<xmax>794</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>
