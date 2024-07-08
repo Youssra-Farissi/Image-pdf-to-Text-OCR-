@@ -1,1 +1,1 @@
-# justDIRHA-APP
+OCR and Loading images 
